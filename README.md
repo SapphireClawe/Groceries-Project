@@ -1,2 +1,2 @@
 # Groceries-Project
-Demonstration of how to create a Github Repository.
+Algorithms for an online store
