@@ -11,3 +11,5 @@ Algorithms for an online store
 - [] Create "pay later" or "bill" Algorithms
 - [] Create delivery Algorithms
 - [] Create database security
+- [] Set up Algorithms
+- [] Code site
