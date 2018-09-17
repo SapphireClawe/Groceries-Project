@@ -13,3 +13,4 @@ Algorithms for an online store
 - [] Create database security
 - [] Set up Algorithms
 - [] Code site
+- [] Promotions
