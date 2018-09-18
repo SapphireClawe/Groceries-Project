@@ -14,3 +14,5 @@ Algorithms for an online store
 - [] Set up Algorithms
 - [] Code site
 - [] Promotions
+- [] Set up packing system
+- [] Set up delivery system
